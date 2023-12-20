@@ -1,0 +1,50 @@
+.result{
+    display: flex;
+    margin-top: 2em;
+}
+
+.result .left-side{
+    text-align: center;
+}
+
+.result .right-side{
+    justify-content: center;
+}
+
+.result-msg{
+    position: relative;
+    width: 22em;
+}
+
+.result-msg h1{
+    text-align: center;
+    color: white;
+}
+
+.play-again-btn{
+    width: 7em;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 5px 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: black;
+    position: absolute;
+    left: 25em;
+    top: 17em;
+}
+
+.next-btn{
+    width: 4em;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    left: 44em;
+    top: 23em;
+    display: none;
+}

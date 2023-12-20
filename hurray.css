@@ -1,0 +1,18 @@
+.hurray{
+    display: block;
+    margin-top: 3em;
+}
+
+.stars{
+    position: relative;
+    left: 25rem;
+}
+
+.trophy{
+    position: relative;
+    left: 3rem;
+}
+
+.play-again-btn{
+    left: 24em;
+}
